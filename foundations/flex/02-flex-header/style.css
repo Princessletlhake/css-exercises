@@ -1,7 +1,6 @@
 .header {
   display: flex;
   flex-direction: row;
-  flex-shrink: 5; 
   font-family: monospace;
   background: papayawhip;
   justify-content: space-around;
